@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2024-08-25",
+    "name": "国际地质大会",
+    "location": "韩国釜山",
+    "status": "三号通知",
+    "milestones": "8.25-31",
+    "attachment": "20240825-31_-_.png"
+  },
+  {
+    "date": "2024-08-20",
+    "name": "全国数学地质与地学信息学术研讨会",
+    "location": "长春",
+    "status": "二号通知",
+    "milestones": "8.20-22",
+    "attachment": "1.png"
+  },
+  {
+    "date": "2024-08-02",
+    "name": "古地磁会议",
+    "location": "兰州",
+    "status": "二号通知",
+    "milestones": "8,02-06",
+    "attachment": "20240802-062.png"
+  },
+  {
+    "date": "2024-10-19",
+    "name": "中国地球科学联合学术年会",
+    "location": "厦门",
+    "status": "二号通知",
+    "milestones": "10 月 19-23 日",
+    "attachment": "2024.html"
+  },
+  {
+    "date": "2024-04-13",
+    "name": "地球科学编委会",
+    "location": "武汉",
+    "status": "三号通知",
+    "milestones": "已过",
+    "attachment": null
+  },
+  {
+    "date": "2024-11-21",
+    "name": "中国地质学会学术年会",
+    "location": "未知",
+    "status": "未知",
+    "milestones": "未知",
+    "attachment": null
+  },
+  {
+    "date": "2025-01-17",
+    "name": "全国青年地质大会第七届",
+    "location": "沈阳",
+    "status": "未知",
+    "milestones": "未知",
+    "attachment": null
+  },
+  {
+    "date": "2024-06-07",
+    "name": "全国同位素地质学术讨论会",
+    "location": "西安",
+    "status": "三号通知",
+    "milestones": "6.7-9",
+    "attachment": null
+  },
+  {
+    "date": "2024-03-27",
+    "name": "构造地质与地球动力学学术研讨会第四届",
+    "location": "珠海",
+    "status": "已过",
+    "milestones": "202403,27-30",
+    "attachment": null
+  },
+  {
+    "date": "2024-03-22",
+    "name": "首届青年地球物理大会",
+    "location": "西安",
+    "status": "已过",
+    "milestones": "202403,22-25",
+    "attachment": null
+  },
+  {
+    "date": "2024-05-17",
+    "name": "地幔矿物岩石地球化学研讨会2024年",
+    "location": "厦门",
+    "status": "已过",
+    "milestones": "5.17-20",
+    "attachment": null
+  },
+  {
+    "date": "2025-01-09",
+    "name": "全国成矿理论与找矿方法学术讨论会十一届",
+    "location": "未知",
+    "status": "未知",
+    "milestones": "未知",
+    "attachment": null
+  },
+  {
+    "date": "2024-09-27",
+    "name": "中国青藏高原研究会学术年会",
+    "location": "全国矿床会议",
+    "status": "中国极地科学学术年会",
+    "milestones": "中国海洋经济论坛",
+    "attachment": null
+  },
+  {
+    "date": "2025-07-10",
+    "name": "地球系统科学大会",
+    "location": "上海",
+    "status": "未发布",
+    "milestones": "中国地球物理学会学术年会",
+    "attachment": null
+  },
+  {
+    "date": "2024-10-11",
+    "name": "2024年实验矿物岩石地球化学研讨会",
+    "location": "杭州",
+    "status": "一号通知",
+    "milestones": "中国矿物岩石地球化学学会学术年会",
+    "attachment": null
+  },
+  {
+    "date": "2024-08-09",
+    "name": "全国矿物包裹体及地质流体学术研讨会",
+    "location": "兰州",
+    "status": "一号通知",
+    "milestones": "8.9-14",
+    "attachment": "pdf"
+  },
+  {
+    "date": "2025-01-01",
+    "name": "中国矿物岩石地球化学学会",
+    "location": "全国各地",
+    "status": "待发布",
+    "milestones": "http://csmpg.gyig.cas.cn/",
+    "attachment": null
+  },
+  {
+    "date": "2025-01-01",
+    "name": "中国地球物理学会",
+    "location": "全国各地",
+    "status": "待发布",
+    "milestones": "http://www.cgscgs.org.cn/",
+    "attachment": null
+  },
+  {
+    "date": "2025-01-01",
+    "name": "中国地质学会",
+    "location": "全国各地",
+    "status": "待发布",
+    "milestones": "http://www.geosociety.org.cn/",
+    "attachment": null
+  },
+  {
+    "date": "2024-08-18",
+    "name": "Goldschmidt2024",
+    "location": "Chicago, Illinois, USA",
+    "status": "https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi",
+    "milestones": "8.18-23July 1 early bird",
+    "attachment": null
+  },
+  {
+    "date": "2024-12-09",
+    "name": "AGU24 Annual Meeting",
+    "location": "Washington, D.C. ",
+    "status": "https://www.agu.org/annual-meeting",
+    "milestones": "9-13",
+    "attachment": null
+  },
+  {
+    "date": "2025-04-27",
+    "name": "EGU25 General Assembly",
+    "location": "Vienna, Austria",
+    "status": "2025",
+    "milestones": "https://www.egu24.eu/",
+    "attachment": null
+  }
+]

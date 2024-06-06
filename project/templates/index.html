@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学术会议信息</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .past {
+            background-color: #e0e0e0;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        form div {
+            margin-bottom: 10px;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>学术会议信息列表</h1>
+    <form id="conferenceForm" enctype="multipart/form-data">
+        <div>
+            <label for="date">会议时间:</label>
+            <input type="date" id="date" name="date" required>
+        </div>
+        <div>
+            <label for="name">会议名称:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div>
+            <label for="location">会议地点:</label>
+            <input type="text" id="location" name="location" required>
+        </div>
+        <div>
+            <label for="status">通知状态:</label>
+            <input type="text" id="status" name="status" required>
+        </div>
+        <div>
+            <label for="milestones">关键结点:</label>
+            <input type="text" id="milestones" name="milestones" required>
+        </div>
+        <div>
+            <label for="attachment">会议通知附件:</label>
+            <input type="file" id="attachment" name="attachment">
+        </div>
+        <input type="hidden" id="editIndex" name="editIndex" value="">
+        <button type="submit">添加/更新会议</button>
+    </form>
+    <button id="downloadBtn">下载会议信息</button>
+    <input type="file" id="uploadFile" accept=".json">
+    <button id="importBtn">导入会议信息</button>
+    <table id="conferenceTable">
+        <thead>
+            <tr>
+                <th>会议时间</th>
+                <th>会议名称</th>
+                <th>会议地点</th>
+                <th>通知状态</th>
+                <th>关键结点</th>
+                <th>附件</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody id="conferenceBody">
+            <!-- 会议信息将由JavaScript生成 -->
+        </tbody>
+    </table>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
